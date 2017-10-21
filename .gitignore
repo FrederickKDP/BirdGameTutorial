@@ -1,0 +1,7 @@
+FlappyBird/Library/
+FlappyBird/ProjectSettings/
+*.meta
+FlappyBird/FlappyBird.userprefs
+FlappyBird/FlappyBird.sln
+FlappyBird/FlappyBird.csproj
+FlappyBird/.vs/FlappyBird/v14/.suo
