@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class DamageTouch : MonoBehaviour {
@@ -9,8 +8,9 @@ public class DamageTouch : MonoBehaviour {
     {
         if (collision.tag == tag)
         {
-            Debug.Log("Game Over!");
-            Debug.Break();
+            SceneManager.LoadScene("GameOver");
+            //Debug.Log("Game Over!");
+            //Debug.Break();
         }
     }
 }
