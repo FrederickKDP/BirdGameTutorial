@@ -1,11 +1,8 @@
 FlappyBird/Library/
 FlappyBird/ProjectSettings/
-*.meta
-FlappyBird/FlappyBird.userprefs
-FlappyBird/FlappyBird.sln
-FlappyBird/FlappyBird.csproj
 FlappyBird/.vs/FlappyBird/v14/.suo
-FlappyBird/Assets/Local/Free Green Flappy Stupid Bird sprite sheets.zip
 FlappyBird/Temp/
 FlappyBird/Assets/parallax backgound pack.zip
 FlappyBird/Assets/Free Green Flappy Stupid Bird sprite sheets.zip
+FlappyBird/Assets/parallax backgound pack.zip.meta
+FlappyBird/Assets/Free Green Flappy Stupid Bird sprite sheets.zip.meta
