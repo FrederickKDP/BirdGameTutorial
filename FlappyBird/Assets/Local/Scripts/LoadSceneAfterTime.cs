@@ -2,6 +2,7 @@
 using UnityEngine;
 
 public class LoadSceneAfterTime : MonoBehaviour {
+    public int scene = 0;
     public float delay = 5f;
 
     void Awake () {
@@ -10,6 +11,6 @@ public class LoadSceneAfterTime : MonoBehaviour {
 
 
 	void LoadLevel () {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(scene);
 	}
 }
